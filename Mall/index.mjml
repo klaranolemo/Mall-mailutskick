@@ -12,7 +12,7 @@
         
           <p style="font-size: 40px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif">Titel</p>
           
-          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Spricy intro</p>
+          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Spicy intro</p>
           
         </mj-text>
         
@@ -32,7 +32,7 @@
       
         <mj-text>
         
-          <p style="font-size: 30px; line-height: 30px; margin: 20px 0 0 0; text-align: center; color:#ffffff;  font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Statistik eller nåt annat kul </p>
+          <p style="font-size: 30px; line-height: 30px; margin: 20px 0 0 0; text-align: center; color:#ffffff;  font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Insert fun shit here </p>
           
           <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Nice text och kanske image nedan </p>
         
@@ -124,7 +124,7 @@
           <p style="line-height: 16px; margin: 10px 0;font-size:14px; font-family:Helvetica,Arial,sans-serif; color:"#">
 Ännu mer spicy text här </p>
             
-Anmälningsformuläret hittar ni här: </p>
+Anmälningsformulär?? isåfall finns en knapp nedan, ta bort annars </p>
             
            </mj-text>
 
