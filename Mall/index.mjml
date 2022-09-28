@@ -78,7 +78,7 @@
           
         </mj-text>
        
-        <mj-button href="https://forms.gle/vN1GNshem3FdC2Uo9" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" padding-bottom="40px" text-decoration="none" text-transform="none" vertical-align="middle"> Ännu en nice knapp </mj-button>
+        <mj-button href="https://forms.gle/vN1GNshem3FdC2Uo9" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" padding-bottom="40px" text-decoration="none" text-transform="none" vertical-align="middle"> Nice knapp om det behövs </mj-button>
        
        
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="Divider.png" target="_blank" width="600px">
