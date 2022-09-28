@@ -2,17 +2,17 @@
   
   <mj-body background-color="#0c0c0c">
     
-    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" text-align="center">
+    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" text-align="center">
     
       <mj-column>
       
-        <mj-image align="center" padding="0 0 0 0" src="Header.png" target="_blank"> </mj-image>
+        <mj-image align="center" padding="0 0 0 0" src="https://raw.githubusercontent.com/klaranolemo/Email-mall/main/Header.png?token=GHSAT0AAAAAABZI2VSEQXLSFAJ2256O3I4EYZUNPKQ" target="_blank"> </mj-image>
         
         <mj-text>
         
           <p style="font-size: 40px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif">Titel</p>
           
-          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Litet intro</p>
+          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Spricy intro</p>
           
         </mj-text>
         
@@ -32,9 +32,9 @@
       
         <mj-text>
         
-          <p style="font-size: 30px; line-height: 30px; margin: 20px 0 0 0; text-align: center; color:#ffffff;  font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Gasquens statistik </p>
+          <p style="font-size: 30px; line-height: 30px; margin: 20px 0 0 0; text-align: center; color:#ffffff;  font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Statistik eller nåt annat kul </p>
           
-          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Ni har jobbat extremt hårt i år och det syns då ni har arrangerat hela 72 Gasquer under läsåret. Helt sjukt! Nedan ser ni lite statistik samt vad som väntar till mottagningen. </p>
+          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Nice text och kanske image nedan </p>
         
         </mj-text>
         
@@ -148,9 +148,9 @@ Anmälningsformuläret hittar ni här: </p>
         
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
           
-          <p style="font-size: 30px; margin: 20px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> <b> Titel på något spännande</b> </p>
+          <p style="font-size: 30px; margin: 20px 0 0 0; text-align: center; color:#ffffff; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> <b> Info från GK</b> </p>
           
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Vi skrev om aspning här förut, kan va nice  </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> Blablabla gött info </p>
           
         </mj-text>
        
