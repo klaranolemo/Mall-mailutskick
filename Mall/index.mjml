@@ -1,8 +1,8 @@
 <mjml>
   
-  <mj-body background-color="#26262e">
+  <mj-body background-color="#0c0c0c">
     
-    <mj-section background-color="#000000" background-repeat="repeat" padding-bottom="0px" text-align="center">
+    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" text-align="center">
     
       <mj-column>
       
@@ -22,7 +22,7 @@
     
    <mj-section>
      
-    <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="" target="_blank" width="600px">
+    <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="Divider.png" target="_blank" width="600px">
     
     </mj-section>
     
@@ -30,7 +30,7 @@
       
     </mj-section>
     
-    <mj-section background-color="#000000" background-repeat="repeat" padding-bottom="0px" text-align="center">
+    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" text-align="center">
       
       <mj-column>
       
