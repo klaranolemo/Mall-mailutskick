@@ -22,7 +22,7 @@
     
    <mj-section>
      
-    <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://github.com/klaranolemo/Email-mall/blob/a20e8af1151deb32539284c36387d587079fdc88/Divider.png" target="_blank" width="600px">
+    <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="" target="_blank" width="600px">
     
     </mj-section>
     
@@ -50,7 +50,7 @@
       
       <mj-column>
       
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://github.com/klaranolemo/Email-mall/blob/9e6cc499fe220884125dba1b23968a9e4ee13234/Mall/Divider.png" target="_blank" width="600px">
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="" target="_blank" width="600px">
         
         </mj-image>
         
