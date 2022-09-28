@@ -6,11 +6,11 @@
     
       <mj-column>
       
-        <mj-image align="center" padding="0 0" src="https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Arrang%C3%B6rer.jpg?raw=true" target="_blank"> </mj-image>
+        <mj-image align="center" padding="0 0 0 0" src="Header.png" target="_blank"> </mj-image>
         
         <mj-text>
         
-          <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#ffffff; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif">Titel</p>
+          <p style="font-size: 40px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif">Titel</p>
           
           <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Litet intro</p>
           
