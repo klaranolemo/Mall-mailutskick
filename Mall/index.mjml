@@ -2,31 +2,43 @@
   
   <mj-body background-color="#0c0c0c">
     
-    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" text-align="center">
     
-      <mj-column>
+    Section 1: Titel & intro
+    
+    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" text-align="center">
+     
       
-        <mj-image align="center" padding="0 0 0 0" src="https://raw.githubusercontent.com/klaranolemo/Email-mall/main/Header.png?token=GHSAT0AAAAAABZI2VSEQXLSFAJ2256O3I4EYZUNPKQ" target="_blank"> </mj-image>
+      <mj-column width=600px>
         
+          <mj-image align="center" padding="0 0 0 0" src="https://raw.githubusercontent.com/klaranolemo/Email-mall/main/Header.png?token=GHSAT0AAAAAABZI2VSEQXLSFAJ2256O3I4EYZUNPKQ" target="_blank" > 
+      
+      </mj-column>
+        
+        
+      <mj-column>
+         
         <mj-text>
-        
-          <p style="font-size: 40px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif">Titel</p>
+          
+         <p style="font-size: 40px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif">Titel</p>
           
           <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Spicy intro</p>
           
         </mj-text>
+
+      </mj-column>
         
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="Divider.png" target="_blank" width="600px">
-        
+      <mj-column width=600px> 
+           
+       <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="Divider.png" target="_blank">
+           
       </mj-column>
       
     </mj-section>
-    
-    <mj-section background-color="" background-repeat="repeat" padding-top="0px" padding="px 0" text-align="center">
       
-    </mj-section>
+      
+    Section 2: Rolig info/trivia, vad har hänt på senaste typ?
     
-    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" text-align="center">
+    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" text-align="center">
       
       <mj-column>
       
@@ -40,62 +52,57 @@
         
       </mj-column>
       
-    </mj-section>
-      
-    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      
-      <mj-column>
-      
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="" target="_blank" width="600px">
+      <mj-column width=50%> 
         
-        </mj-image>
-        
+       <mj-image align="center" padding-bottom="30px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="" target="_blank">
+      
       </mj-column>
-      
-    </mj-section>
         
-    <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      
-      <mj-column>
-      
+      <mj-column width=600px>
+        
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="Divider.png" target="_blank" width="600px">
         
-        </mj-image>
-        
       </mj-column>
-      
+   
     </mj-section>
+        
       
-       <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" text-align="center">
+      Section 3: Info
+      
+       <mj-section background-color="#030939" background-repeat="repeat" text-align="center" padding-bottom="0px">
       
       <mj-column>
         
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
+        <mj-text>
           
-          <p style="font-size: 30px; margin: 20px 0 0 0; text-align: center; color:#ffffff; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> <b> Info från GK</b> </p>
+          <p style="font-size: 30px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Info från GK </p>
           
           <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> Blablabla gött info </p>
           
         </mj-text>
-       
-        <mj-button href="https://forms.gle/vN1GNshem3FdC2Uo9" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" padding-bottom="40px" text-decoration="none" text-transform="none" vertical-align="middle"> Nice knapp om det behövs </mj-button>
-       
-       
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="Divider.png" target="_blank" width="600px">
-       
-    </mj-section>
         
-    <mj-section background-color="#030939" background-repeat="repeat" padding="20px 0" text-align="center">
-      
-      <mj-column> 
-        
- 
-        
-        </mj-text>
       </mj-column>
+         
+      <mj-column>
+           
+            <mj-button href="https://forms.gle/vN1GNshem3FdC2Uo9" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" padding-bottom="40px" text-decoration="none" text-transform="none" vertical-align="middle"> Nice knapp om det behövs 
+              
+        </mj-button>
+           
+      </mj-column>
+         
+      <mj-column width=600px>
+        
+         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="Divider.png" target="_blank" width="600px">
+         
+      </mj-column>
+         
     </mj-section>
+         
+         
+        
 
-    <mj-section background-color="#030939" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding="0 0" text-align="center">
+    <mj-section background-color="#030939" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding="30 0" text-align="center">
       
       <mj-column>
       
@@ -138,7 +145,7 @@ Anmälningsformulär?? isåfall finns en knapp nedan, ta bort annars </p>
       
         <mj-text align="left" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="30px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
          
-          <p style="margin: 10px 0; color:#ffffff; font-size:16px; font-family:Helvetica,Arial,sans-serif"> <b>Evenemang 2</b></p>
+          <p style="margin: 10px 0; color:#ffffff; font-size:16px; font-family:Helvetica,Arial,sans-serif">Evenemang 2</p>
          
           <p style="line-height: 16px; margin: 10px 0;font-size:14px; font-family:Helvetica,Arial,sans-serif; color:"#ffffff"> Nice text här   </p>
             
