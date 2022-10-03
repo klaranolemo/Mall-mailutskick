@@ -108,7 +108,7 @@
       
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="0px" padding-top="0px">
         
-          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#ffffff; font-size:30p; font-family:Helvetica,Arial,sans-serif"> Kommande evenemang maybe. Händer alltid kul saker </p>
+          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#ffffff; font-size:30p; font-family:Helvetica,Arial,sans-serif"> Kommande evenemang maybe. Händer alltid saker </p>
           
         </mj-text>
         
@@ -126,10 +126,10 @@
         
           <p style="margin: 10px 0; font-size:16px; font-family:Helvetica,Arial,sans-serif"> <b>Evenemang 1</b> </p>
           
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; font-family:Helvetica,Arial,sans-serif; color:"#"> Spicy text här </p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> SpIcY tExT hÄr </p>
+         
      
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; font-family:Helvetica,Arial,sans-serif; color:"#">
-Ännu mer spicy text här </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> EvEn MoRe SpIcY tExT hErE </p>
             
 Anmälningsformulär?? isåfall finns en knapp nedan, ta bort annars </p>
             
@@ -145,11 +145,11 @@ Anmälningsformulär?? isåfall finns en knapp nedan, ta bort annars </p>
       
         <mj-text align="left" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="30px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
          
-          <p style="margin: 10px 0; color:#ffffff; font-size:16px; font-family:Helvetica,Arial,sans-serif">Evenemang 2</p>
+          <p style="margin: 10px 0; color:#ffffff; font-size:16px; font-family:Helvetica,Arial,sans-serif"> <b> Evenemang 2 </b></p>
          
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; font-family:Helvetica,Arial,sans-serif; color:"#ffffff"> Nice text här   </p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> Nice text här hehehehe </p>
             
-         <p style="line-height: 16px; margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:"#ffffff"> Ännu mer nice text här </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> Ännu bättre text här because why tf not </p>
           
                    
         </mj-text>
@@ -162,12 +162,15 @@ Anmälningsformulär?? isåfall finns en knapp nedan, ta bort annars </p>
       <mj-column>
       
         <mj-text align="left" color="#ffffff" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="40px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
-          <p style="margin: 10px 0; font-size:16px; font-family:Helvetica,Arial,sans-serif"> <b>Evenemang 3</b></p>
+          
+          
+          <p style="margin: 10px 0; font-size:16px; font-family:Helvetica,Arial,sans-serif"> <b>Evenemang 3</b> </p>
          
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; font-family:Helvetica,Arial,sans-serif; color:"#ffffff"> Coolaste evenemanget här </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> Vilket jävla evenemang, wow! </p>
       
 
-nån fin bild här under
+nån fin bild här under kanske?? fin häslning good bye
+          
         <mj-image align="center" padding="10px 25px" src="" target="_blank" width="px"> </mj-image>
           
         </mj-text>
@@ -180,7 +183,6 @@ nån fin bild här under
     </mj-section>
 
    
-      
     <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
      
       <mj-column>
@@ -193,6 +195,9 @@ nån fin bild här under
     <mj-section background-color="#030939" background-repeat="repeat" padding="20px 0" text-align="center">
       
       <mj-column>
+        
+        
+        finaste loggan
         
         <mj-image align="center" padding="10px 25px" src="https://raw.githubusercontent.com/klaranolemo/Email-mall/main/mail%20gk%20logga.png?token=GHSAT0AAAAAABZI2VSF72K3RMCHGDWAXUYYYZUN2EQ" target="_blank" width="400px"></mj-image>
         
