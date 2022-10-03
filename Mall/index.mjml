@@ -15,11 +15,11 @@
       </mj-column>
         
         
-      <mj-column>
+      <mj-column width="600px">
          
         <mj-text>
           
-         <p style="font-size: 40px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif">Titel</p>
+         <p style="font-size: 40px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif"> Hi guys and welcome back to my channel</p>
           
           <p style="font-size: 20px; line-height: 30px; text-align: center; color:#d9d9d9; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Spicy intro</p>
           
