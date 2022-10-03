@@ -40,7 +40,7 @@
     
     <mj-section background-color="#030939" background-repeat="repeat" padding-bottom="0px" padding-top="0px" text-align="center">
       
-      <mj-column>
+      <mj-column width="600px">
       
         <mj-text>
         
@@ -71,21 +71,21 @@
       
        <mj-section background-color="#030939" background-repeat="repeat" text-align="center" padding-bottom="0px">
       
-      <mj-column>
+      <mj-column width="600px">
         
         <mj-text>
           
           <p style="font-size: 30px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Info från GK </p>
           
-          <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> Blablabla gött info </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:11px;font-family:Helvetica,Arial,sans-serif; color:#ffffff"> Blablabla gött info, maybey aspning??? </p>
           
         </mj-text>
         
       </mj-column>
          
-      <mj-column>
+      <mj-column width="600px">
            
-            <mj-button href="https://forms.gle/vN1GNshem3FdC2Uo9" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" padding-bottom="40px" text-decoration="none" text-transform="none" vertical-align="middle"> Nice knapp om det behövs 
+            <mj-button href="https://forms.gle/vN1GNshem3FdC2Uo9" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" padding-bottom="40px" text-decoration="none" text-transform="none" vertical-align="middle"> Alltid nice med en knapp right
               
         </mj-button>
            
@@ -102,13 +102,13 @@
          
         
 
-    <mj-section background-color="#030939" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding="30 0" text-align="center">
+    <mj-section background-color="#030939" background-repeat="repeat" background-size="auto" padding-bottom="0px" text-align="center">
       
       <mj-column>
       
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="0px" padding-top="0px">
         
-          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#ffffff; font-size:30p; font-family:Helvetica,Arial,sans-serif"> Kommande evenemang </p>
+          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#ffffff; font-size:30p; font-family:Helvetica,Arial,sans-serif"> Kommande evenemang maybe. Händer alltid kul saker </p>
           
         </mj-text>
         
